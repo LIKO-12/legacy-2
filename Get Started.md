@@ -4,7 +4,7 @@
 
 First of all, you have to download LIKO-12, it's available at:
 
-- [GitHub Releases](https://github.com/RamiLego4Game/LIKO-12/releases)
+- [GitHub Releases](https://github.com/LIKO-12/LIKO-12/releases)
 - [Itch.io](https://ramilego4game.itch.io/liko12)
 - [Google Play](https://play.google.com/store/apps/details?id=me.ramilego4game.liko12) (Recommended for android users)
 
@@ -69,7 +69,7 @@ First of all, you have to download LIKO-12, it's available at:
 
 ### Method B (Unsupported):
 
-!> I have no idea if those builds work or not, if you have time to spare for fixing them, then create a [GitHub issue](https://github.com/RamiLego4Game/LIKO-12/issues).
+!> I have no idea if those builds work or not, if you have time to spare for fixing them, then create a [GitHub issue](https://github.com/LIKO-12/LIKO-12/issues).
 
 1. Download the `..._Mac.zip` build.
 2. Extract the `.zip` (I've been told you have to use a third-party tool for LIKO-12 to work).

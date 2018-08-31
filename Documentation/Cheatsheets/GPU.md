@@ -1,4 +1,4 @@
-![GPU Cheatsheet](https://github.com/RamiLego4Game/LIKO-12/raw/master/Extra/Cheatsheets/GPU/LIKO-12%20GPU%20Cheatsheet.png)
+![GPU Cheatsheet](https://github.com/LIKO-12/Cheatsheets/raw/master/GPU/LIKO-12%20GPU%20Cheatsheet.png)
 
 ---
 
@@ -6,9 +6,9 @@
 
 ---
 
-* **PNG Image**: [Download from Github](https://github.com/RamiLego4Game/LIKO-12/raw/master/Extra/Cheatsheets/GPU/LIKO-12%20GPU%20Cheatsheet.png)
-* **PDF Document**: [Download from Github](https://github.com/RamiLego4Game/LIKO-12/raw/master/Extra/Cheatsheets/GPU/LIKO-12%20GPU%20Cheatsheet.pdf)
-* **Source Inkscape SVG**: [Download from Github](https://github.com/RamiLego4Game/LIKO-12/raw/master/Extra/Cheatsheets/GPU/LIKO-12%20GPU%20Cheatsheet.svg)
+* **PNG Image**: [Download from Github](https://github.com/LIKO-12/Cheatsheets/raw/master/GPU/LIKO-12%20GPU%20Cheatsheet.png)
+* **PDF Document**: [Download from Github](https://github.com/LIKO-12/Cheatsheets/raw/master/GPU/LIKO-12%20GPU%20Cheatsheet.pdf)
+* **Source Inkscape SVG**: [Download from Github](https://github.com/LIKO-12/Cheatsheets/raw/master/GPU/LIKO-12%20GPU%20Cheatsheet.svg)
 
 ---
 

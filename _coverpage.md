@@ -6,5 +6,5 @@
 * Completely written in Lua, powered by LÖVE
 * Open-sourced since the first day
 
-[GitHub](https://github.com/RamiLego4Game/LIKO-12)
+[GitHub](https://github.com/LIKO-12/LIKO-12)
 [Get Started](Get Started.md)

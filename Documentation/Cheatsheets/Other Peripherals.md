@@ -1,4 +1,4 @@
-![Other Peripherals Cheatsheet](https://github.com/RamiLego4Game/LIKO-12/raw/master/Extra/Cheatsheets/Other%20Peripherals/Other%20Peripherals%20Cheatsheet.png)
+![Other Peripherals Cheatsheet](https://github.com/LIKO-12/Cheatsheets/raw/master/Other%20Peripherals/Other%20Peripherals%20Cheatsheet.png)
 
 ---
 
@@ -6,9 +6,9 @@
 
 ---
 
-* **PNG Image**: [Download from Github](https://github.com/RamiLego4Game/LIKO-12/raw/master/Extra/Cheatsheets/Other%20Peripherals/Other%20Peripherals%20Cheatsheet.png)
-* **PDF Document**: [Download from Github](https://github.com/RamiLego4Game/LIKO-12/raw/master/Extra/Cheatsheets/Other%20Peripherals/Other%20Peripherals%20Cheatsheet.pdf)
-* **Source Inkscape SVG**: [Download from Github](https://github.com/RamiLego4Game/LIKO-12/raw/master/Extra/Cheatsheets/Other%20Peripherals/Other%20Peripherals%20Cheatsheet.svg)
+* **PNG Image**: [Download from Github](https://github.com/LIKO-12/Cheatsheets/raw/master/Other%20Peripherals/Other%20Peripherals%20Cheatsheet.png)
+* **PDF Document**: [Download from Github](https://github.com/LIKO-12/Cheatsheets/raw/master/Other%20Peripherals/Other%20Peripherals%20Cheatsheet.pdf)
+* **Source Inkscape SVG**: [Download from Github](https://github.com/LIKO-12/Cheatsheets/raw/master/Other%20Peripherals/Other%20Peripherals%20Cheatsheet.svg)
 
 ---
 
