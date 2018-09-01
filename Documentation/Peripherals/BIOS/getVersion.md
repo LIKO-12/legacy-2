@@ -18,7 +18,7 @@ local LIKO_Version, LIKO_Old = BIOS.getVersion()
 ### Returns
 ---
 
-* **LIKO_Version (string):** Current LIKO-12's version string (ex: `0.9.0_DEV`).
+* **LIKO_Version (string):** Current LIKO-12's version string (ex: `1.0.0-DEV`).
 * **LIKO_Old (string, nil):** The previous installed LIKO-12's version string (ex: `0.8.0_PRE`).
 
 
