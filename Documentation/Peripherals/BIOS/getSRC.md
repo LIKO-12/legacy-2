@@ -9,8 +9,8 @@ Returns `LIKO-12_Source.love` data.
 
 ---
 
-* **Available since:** _BIOS:_ v1.18.2, _LIKO-12_: v0.9.0
-* **Last updated in:** _BIOS:_ v1.18.2, _LIKO-12_: v0.9.0
+* **Available since:** _BIOS:_ v1.18.2, _LIKO-12_: v1.0.0
+* **Last updated in:** _BIOS:_ v1.18.2, _LIKO-12_: v1.0.0
 
 ---
 
