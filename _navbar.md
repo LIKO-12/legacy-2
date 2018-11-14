@@ -1,6 +1,6 @@
 * [Home](/)
 * [Documentation](Documentation/)
-* [Get Started](Get Started.md)
+* [Get Started](Get_started.md)
 * [Disks](https://liko-12.github.io/Disks/)
 * External Links
 
