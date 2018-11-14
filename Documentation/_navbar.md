@@ -3,13 +3,13 @@
 
 * [Cheatsheets](/Documentation/Cheatsheets/)
   * [GPU](/Documentation/Cheatsheets/GPU.md)
-  * [Other Peripherals](/Documentation/Cheatsheets/Other Peripherals.md)
+  * [Other Peripherals](/Documentation/Cheatsheets/Other_Peripherals.md)
 
 * Guides
-  * [Getting started](/Documentation/Guides/Getting started.md)
-  * [Keyboard shortcuts](/Documentation/Guides/Keyboard shortcuts.md)
-  * [Using external code editor](/Documentation/Guides/Using external code editor.md)
-  * [Manually creating .love file from .lk12](/Documentation/Guides/Manually creating .love file from .lk12.md)
+  * [Getting started](/Documentation/Guides/Getting_started.md)
+  * [Keyboard shortcuts](/Documentation/Guides/Keyboard_shortcuts.md)
+  * [Using external code editor](/Documentation/Guides/Using_external_code_editor.md)
+  * [Manually creating .love file from .lk12](/Documentation/Guides/Manually_creating_.love_file_from_.lk12.md)
 
 * [Peripherals](/Documentation/Peripherals/)
   * [GPU](/Documentation/Peripherals/GPU/)
