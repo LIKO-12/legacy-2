@@ -9,7 +9,7 @@ Gives access to miscellaneous functions.
 
 * **Version:** 1.18.3
 * **Available since LIKO-12:** v0.6.0
-* **Last updated in LIKO-12:** v0.9.0
+* **Last updated in LIKO-12:** v1.0.0
 
 ---
 ### Methods
