@@ -1,3 +1,3 @@
 * [Home](/)
-* [Get Started](Get Started.md)
+* [Get Started](Get_started.md)
 * [FAQ](FAQ.md)
