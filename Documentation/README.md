@@ -18,7 +18,6 @@
 ---
 ## Guides
 ---
-
 * [File System](/Documentation/Guides/Filesystem.md)
 * [Getting started](/Documentation/Guides/Getting_started.md)
 * [Keyboard shortcuts](/Documentation/Guides/Keyboard_shortcuts.md)
