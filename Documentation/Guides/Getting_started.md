@@ -1,3 +1,5 @@
+!> **Important**: This is an outdated document !
+
 So, here's a list of the commands that you'll mostly use:
 
 * **help**: Prints basic help info.
