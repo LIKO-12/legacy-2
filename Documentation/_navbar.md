@@ -6,6 +6,7 @@
   * [Other Peripherals](/Documentation/Cheatsheets/Other_Peripherals.md)
 
 * Guides
+  * [Filesystem](/Documentation/Guides/Filesystem.md)
   * [Getting started](/Documentation/Guides/Getting_started.md)
   * [Keyboard shortcuts](/Documentation/Guides/Keyboard_shortcuts.md)
   * [Using external code editor](/Documentation/Guides/Using_external_code_editor.md)
