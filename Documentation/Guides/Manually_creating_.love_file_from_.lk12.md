@@ -6,13 +6,13 @@ First of all, we have to create a modified .love file, which is actually a .zip 
 
 ## 1- Start by downloading the LIKO-12_Universal.love build, from either itch.io or github
 
-![Screenshot](../../_media/Game Packaging/SC-1.png)
+![Screenshot](../../_media/Game%20Packaging/SC-1.png)
 
 ## 2- Rename it from `.love` to `.zip` (In windows you will have to enable file extensions view, follow [this article](https://www.howtohaven.com/system/show-file-extensions-in-windows-explorer.shtml)).
 
 ---
 
-![GIF](../../_media/Game Packaging/GIF-1.gif)
+![GIF](../../_media/Game%20Packaging/GIF-1.gif)
 
 ---
 
@@ -20,7 +20,7 @@ First of all, we have to create a modified .love file, which is actually a .zip 
 
 ---
 
-![GIF](../../_media/Game Packaging/GIF-2.gif)
+![GIF](../../_media/Game%20Packaging/GIF-2.gif)
 
 ---
 
@@ -44,7 +44,7 @@ First of all, we have to create a modified .love file, which is actually a .zip 
 
 ---
 
-![GIF](../../_media/Game Packaging/GIF-3.gif)
+![GIF](../../_media/Game%20Packaging/GIF-3.gif)
 
 ---
 
@@ -52,7 +52,7 @@ First of all, we have to create a modified .love file, which is actually a .zip 
 
 ---
 
-![GIF](../../_media/Game Packaging/GIF-4.gif)
+![GIF](../../_media/Game%20Packaging/GIF-4.gif)
 
 ---
 
@@ -60,7 +60,7 @@ First of all, we have to create a modified .love file, which is actually a .zip 
 
 ---
 
-![GIF](../../_media/Game Packaging/GIF-5.gif)
+![GIF](../../_media/Game%20Packaging/GIF-5.gif)
 
 ---
 
