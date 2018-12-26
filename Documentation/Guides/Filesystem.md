@@ -10,6 +10,9 @@ The LIKO-12 file system is case-insensitive, meaning that `cd programs`, and `cd
 ### Important
 !> **Never** store your own things in the **C** drive, as **it is replaced on updates**.
 
+## Note
+> In case of writing your own OS on the C drive (or modifing DiskOS), you can disable LIKO-12's DiskOS updater (So your OS doesn't get overwritten by DiskOS when a new update of LIKO-12) by creating an empty file at `C:/.noupdate`
+
 ## Paths
 There are relative paths, and absolute paths. Relative paths refer to a file / directory on the same drive, and are relative to the current directory (the one shown in the prompt), while absolute paths, refer to a file / directory, on a different drive, and begin with the drive letter followed by the colon. Both types use `/` as a delimiter. A relative path can also make use of `..`, which can be used to access the parent directory.
 
@@ -21,6 +24,7 @@ There are relative paths, and absolute paths. Relative paths refer to a file / d
  - Relative:
  - `../other`
  - `child/dir`
+
 ## Navigation Commands
 
  - `ls`: Used to list contents of current directory, or a directory given as an argument.
