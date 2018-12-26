@@ -5,10 +5,10 @@ The LIKO-12 file system is case-insensitive, meaning that `cd programs`, and `cd
 | C: | D: |
 |--|--|
 | For system | For user |
-| Rewritten on update | Not rewritten by update |
+| Rewritten on update | Not rewritten on update |
 
 ### Important
-**Never** store your own things in the D drive, as it is replaced on updates.
+!> **Never** store your own things in the **C** drive, as **it is replaced on updates**.
 
 ## Paths
 There are relative paths, and absolute paths. Relative paths refer to a file / directory on the same drive, and are relative to the current directory (the one shown in the prompt), while absolute paths, refer to a file / directory, on a different drive, and begin with the drive letter followed by the colon. Both types use `/` as a delimiter. A relative path can also make use of `..`, which can be used to access the parent directory.
