@@ -7,10 +7,10 @@ The LIKO-12 file system is case-insensitive, meaning that `cd programs`, and `cd
 | For system | For user |
 | Rewritten on update | Not rewritten on update |
 
-### Important
+#### Important
 !> **Never** store your own things in the **C** drive, as **it is replaced on updates**.
 
-## Note
+#### Note
 > In case of writing your own OS on the C drive (or modifing DiskOS), you can disable LIKO-12's DiskOS updater (So your OS doesn't get overwritten by DiskOS when a new update of LIKO-12) by creating an empty file at `C:/.noupdate`
 
 ## Paths
