@@ -3,6 +3,15 @@
 
 Allows the creation of video memory effects.
 
+Memory Table:
+0x0 -> 0x2FFF - The Video RAM
+0x3000 -> 0x5FFF - The Label Image
+0x6000 -> 0x15FFF - The FDD RAM
+
+---
+
+?> The FDD RAM is used by DiskOS when saving your game into a .png.
+
 ---
 
 * **Version:** 1.0.0
