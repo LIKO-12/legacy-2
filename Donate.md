@@ -14,13 +14,19 @@ There won't be ever any "PRO" or "Donator" editions by the me or official team (
 I prefer cryptocurrencies over the normal currencies because they are easier to be received in my country.
 
 ###### BitCoin:
+```
 bitcoin:bc1qns3840e9nw5zjexyq8d0d0cttsl94f7wcg4uas?label=Rami
+```
 
 ###### LiteCoin:
+```
 La1vNQUUZNRB1sRKbbMJgxMgFwMVzrNH9k
+```
 
 ###### Nano:
+```
 nano_38un19b1nwsmzh9so5iac9rxd6sbuzcmtn4ipzga5jma3n755eofrdqpuqgd
+```
 
 ##### Normal Methods:
 Normal money is well accepted too.
