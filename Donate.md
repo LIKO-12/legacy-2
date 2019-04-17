@@ -6,7 +6,7 @@ It would be very nice to support me for the long hours I've spent developing it 
 
 LIKO-12 is, and will always be a Free, Open-Source project !
 
-There won't be ever any "PRO" or "Donator" editions by the me or official team (in the future).
+There won't be ever any "PRO" or "Donator" editions by me or the official team (in the future).
 
 #### Payment Methods:
 
