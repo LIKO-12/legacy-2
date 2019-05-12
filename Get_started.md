@@ -48,7 +48,7 @@ First of all, you have to download LIKO-12, it's available at:
 2. Make it executable `chmod u+x LIKO-12_..._Linux_x86_64.AppImage`.
 3. Install LuaSec (For https support, _optional_):
   - If using debian:
-    - `sudo apt install luasec`
+    - `sudo apt install lua-sec`
   - Otherwise use [luarocks](https://luarocks.org/):
     - `sudo luarocks install luasec`
 4. Execute the .AppImage `./LIKO-12_..._Linux_x86_64.AppImage`.
