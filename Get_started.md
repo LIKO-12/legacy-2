@@ -32,7 +32,7 @@ First of all, you have to download LIKO-12, it's available at:
 2. Download the universal `.love` file `..._Universal.love`
 3. Install LuaSec (For https support, _optional_):
   - If using debian:
-    - `sudo apt install luasec`
+    - `sudo apt install lua-sec`
   - Otherwise use [luarocks](https://luarocks.org/):
     - `sudo luarocks install luasec`
 4. Open a terminal in the folder containing the `.love` file.
