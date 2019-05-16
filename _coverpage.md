@@ -7,4 +7,4 @@
 * Open-sourced since the first day
 
 [GitHub](https://github.com/LIKO-12/LIKO-12)
-[Get Started](Get_started.md)
+[Getting Started](./Documentation/Guides/getting_started.md)
