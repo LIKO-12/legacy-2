@@ -4,14 +4,14 @@ If you haven't done it yet, you should install LIKO-12 on your machine by
 following the [installation guide](./installation.md). Once you have LIKO-12 up
 and running on your machine, you can go to the next step.
 
-# Running and editing the demo games
+# Running and editing the demos
 
 ## Running a game
 
-A good entry point to learning to use LIKO-12 is looking at the code of the demo
-games that come bundled with LIKO-12.
+A good entry point to learning to use LIKO-12 is looking at the code of the
+demos that come bundled with LIKO-12.
 
-The demo games need to be installed with the following command:
+The demos need to be installed with the following command:
 
 ```bash
 install_demos
@@ -23,7 +23,7 @@ The demos will be installed in `D:/Demos`. Go in this directory:
 cd Demos
 ```
 
-You can see the list of installed demo games by using the `dir` command (or its
+You can see the list of installed demos by using the `dir` command (or its
 alias, `ls`). You should see a bunch of `.lk12` files. Each of those files is a
 LIKO-12 game.
 
