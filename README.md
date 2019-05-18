@@ -7,7 +7,11 @@
 [![License Badge](https://img.shields.io/badge/License-MIT-blue.svg)](?id=license)
 [![Stars Badge](https://img.shields.io/github/stars/LIKO-12/LIKO-12.svg?style=flat&label=Stars)](https://github.com/LIKO-12/LIKO-12)
 
+---
+
 # About
+
+---
 
 LIKO-12 is a fantasy computer that you can use to make, play and share tiny retro-looking games and programs. It comes
 with a default, fully customizable, DOS-like operating system installed, called DiskOS.
@@ -16,7 +20,11 @@ DiskOS provides an environment with basic command line programs and visual game 
 
 The created games and programs are saved as disk files that can be easily shared to friends or anyone else.
 
+---
+
 # Specifications
+
+---
 
 | Spec  | Info                                 |
 | ----- | ------------------------------------ |
@@ -26,7 +34,11 @@ The created games and programs are saved as disk files that can be easily shared
 | HDD   | 2x 50mb drives                       |
 | Input | Keyboard, Mouse, Touch, and Gamepads |
 
+---
+
 # Features
+
+---
 
 - Uses LuaJIT, much faster than vanilla Lua, but has Lua 5.1 API.
 - Has a virtual drives system, with size limitation, so a miscellaneous script won't fill your system drive.
@@ -51,33 +63,55 @@ The created games and programs are saved as disk files that can be easily shared
     - The sfx playing speed is modifiable.
     - Supports 6 waveforms (sine, square, pulse, sawtooth, triangle, noise).
 
+---
+
 # Screenshots
+
+---
 
 ### The code editor
 ![Code_Editor](/_media/Code_Editor.png)
+
+---
 
 ### The sprite editor
 
 ![Sprite_Editor](/_media/Sprite_Editor.png)
 
+---
+
 ### The map editor
 ![Map_Editor](/_media/Map_Editor.png)
+
+---
 
 ### The SFX editor
 ![SFX_Editor](/_media/SFX_Editor.png)
 
+---
+
 ### The system prompt
 ![DiskOS_Prompt](/_media/DiskOS_Prompt.gif)
+
+---
 
 ### The BIOS POST screen
 ![BIOS_POST](/_media/BIOS_POST.png)
 
+---
+
 ### The BIOS setup screen
 ![BIOS_Setup](/_media/BIOS_Setup.png)
+
+---
 
 ### The operating system installation screen
 ![DiskOS_Installer](/_media/DiskOS_Installer.png)
 
+---
+
 # License
+
+---
 
 [License](/LICENSE ':include :type=code')
