@@ -1,7 +1,7 @@
 # Installing LIKO-12
 
 If you haven't done it yet, you should install LIKO-12 on your machine by
-following the [installation guide](installation.md). Once you have LIKO-12 up
+following the [installation guide](Documentation/Guides/installation.md). Once you have LIKO-12 up
 and running on your machine, you can go to the next step.
 
 # Running and editing the demos
