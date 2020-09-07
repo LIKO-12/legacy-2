@@ -73,4 +73,4 @@ this situation).
 
 # What's next
 
-You can start reading [LIKO-12 "Getting Started" guide](./getting_started.md).
+You can start reading [LIKO-12 "Getting Started" guide](/Documentation/Guides/getting_started.md).
