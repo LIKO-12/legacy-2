@@ -3,7 +3,7 @@
 This guide will help you install LIKO-12 on your machine. LIKO-12 is available
 ont Windows, Linux, macOS and Android.
 
-You can download LIKo-12 releases on:
+You can download LIKO-12 releases on:
 
 * [GitHub](https://github.com/LIKO-12/LIKO-12/releases)
 * [Itch.io](https://ramilego4game.itch.io/liko12)
