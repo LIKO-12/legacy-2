@@ -79,7 +79,7 @@ LIKO-12 games are coded in Lua 5.1, so it's probably a good idea to learn it.
 A [tutorial](https://www.lua.org/pil/contents.html) is available on Lua website
 (note that it is a tutorial for Lua 5.0, but it should not matter much). 
 
-You can also type `programs` in the terminal to get a list of available
+You can also type `programs` in the terminal to get a list of
 available commands. You can get help for a specific command by typing
 `<command> -?` (for example, `export -?`).
 
